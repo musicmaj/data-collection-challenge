@@ -1,2 +1,2 @@
-# scrape-challenge
-Module 11, Scrape Challenge
+# Data-Collection-Challenge
+Module 11, Data-Collection Challenge
